@@ -60,7 +60,7 @@ sudo systemctl status prometheus
 
 
 // script
-
+```
 sudo yum update -y
 sudo yum install -y https://dl.grafana.com/enterprise/release/grafana-enterprise-12.0.2-1.x86_64.rpm
 grafana --version
@@ -105,7 +105,7 @@ sudo systemctl daemon-reload
 sudo systemctl enable prometheus
 sudo systemctl start prometheus
 sudo systemctl status prometheus
-
+```
 
 
 
