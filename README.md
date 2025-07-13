@@ -14,6 +14,7 @@ This project provides step-by-step instructions to deploy **Grafana Enterprise**
   * **80** (HTTP)
   * **443** (HTTPS)
   * **3000** (Grafana)
+  * **9090** (Prometheus)
 
 ---
 
